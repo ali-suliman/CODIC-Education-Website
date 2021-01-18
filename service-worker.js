@@ -14,10 +14,10 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.d7df7bc51a345569d20a4d35e58ba2d0.js"
+  "/precache-manifest.40c718c1a01f45ba1e5f8211092d4944.js"
 );
 
-workbox.core.setCacheNameDetails({prefix: "website"});
+workbox.core.setCacheNameDetails({prefix: "codic-education"});
 
 self.addEventListener('message', (event) => {
   if (event.data && event.data.type === 'SKIP_WAITING') {
