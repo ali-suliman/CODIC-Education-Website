@@ -4,8 +4,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/_redirects"
   },
   {
-    "revision": "bda65739c84dbb6da7bd",
-    "url": "/css/app.9e0bf3c7.css"
+    "revision": "1288e7a52b52123dc5d0",
+    "url": "/css/app.ebffca53.css"
   },
   {
     "revision": "26a7db3d4b5b651c1e53a0fd1a9051ca",
@@ -136,6 +136,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/fistBump.7d5ce846.svg"
   },
   {
+    "revision": "711faaaf20918edbe38b58b354110874",
+    "url": "/img/hackathon-bg-mobile.711faaaf.jpg"
+  },
+  {
     "revision": "154da10728366839549f22b6be7b02ec",
     "url": "/img/hackathon-bg.154da107.jpg"
   },
@@ -216,12 +220,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/userName.982e0406.svg"
   },
   {
-    "revision": "a8e12c029a2dff35a9098a794d49c15f",
+    "revision": "75ca8bb301a6a276cdb8ee84ae90d2c8",
     "url": "/index.html"
   },
   {
-    "revision": "bda65739c84dbb6da7bd",
-    "url": "/js/app.4ad84bba.js"
+    "revision": "1288e7a52b52123dc5d0",
+    "url": "/js/app.f702d1a6.js"
   },
   {
     "revision": "344edecebe93cfc0e89c",
