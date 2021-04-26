@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.981d37ae7d51c1b13ba70dde4d148272.js"
+  "/precache-manifest.bfee69827bede949a81dfdd9e8264d66.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "codic-education"});
